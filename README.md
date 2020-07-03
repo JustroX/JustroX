@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**JustroX/JustroX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Just 🙂
 
-Here are some ideas to get you started:
+- I am a fullstack developer at [godivi.ph](https://godivi.ph)
+- On the side, I’m working on [Planzen](https://twitter.com/justfizzbuzz/status/1278390070915915776?s=19)
+- I'm an incoming 3rd year BS Computer Science student in University of the Philippines - Diliman.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+How to reach me
+- [@justfizzbuzz](https://twitter.com/justfizzbuzz)
+- [thepiesaresquared@gmail.com](mailto://thepiesaresquared@gmail.com)
+
+Flex
+- Personal website: [justrox.me](https://justrox.me)
+
+Active Projects
+- [Open Clearance](https://open-clearance.netlify.com) - An open-source solution for term-end clearance signing.
