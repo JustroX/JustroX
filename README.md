@@ -10,8 +10,5 @@ How to reach me
 - [@justfizzbuzz](https://twitter.com/justfizzbuzz)
 - [thepiesaresquared@gmail.com](mailto://thepiesaresquared@gmail.com)
 
-Flex
-- Personal website: [justrox.me](https://justrox.me)
-
 Active Projects
 - [Open Clearance](https://open-clearance.netlify.com) - An open-source solution for term-end clearance signing.
