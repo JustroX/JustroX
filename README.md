@@ -3,7 +3,7 @@
 I am Just 🙂
 
 - I am a fullstack developer at [godivi.ph](https://godivi.ph)
-- On the side, I’m working on [Planzen](https://twitter.com/justfizzbuzz/status/1278390070915915776?s=19)
+- On the side, I’m working on [Hatchling](https://hatchling.netlify.app)
 - I'm an incoming 3rd year BS Computer Science student in University of the Philippines - Diliman.
 
 How to reach me
