@@ -4,7 +4,7 @@ I am Just 🙂
 
 - I am a fullstack developer
 - On the side, I’m working on various projects
-- I'm a graduating BS Computer Science student in University of the Philippines - Diliman.
+- BS Computer Science graduate
 
 How to reach me
 - [@justfizzbuzz](https://twitter.com/justfizzbuzz)
